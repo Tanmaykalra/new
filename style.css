@@ -1,0 +1,20 @@
+html{
+    background:black
+}
+
+#outdiv{
+    width:50%;
+    margin-left:25%;
+    text-align: center;
+    color:aliceblue;
+    background-color: rgb(144, 144, 112);
+}
+#indiv{
+    background-color: rgb(23, 107, 107);
+    border: 5px solid white;
+    border-width: 10px 20px;
+    margin: 20px;
+}
+.p{
+   margin:0;
+}
